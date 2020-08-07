@@ -1,1 +1,1 @@
-# roforrasok
+# R könyvek, tutoriálok, blogok, adatbázisok

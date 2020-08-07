@@ -1,0 +1,194 @@
+---
+title: "R erőforrások"
+author: "Könyvek, tutoriálok, blogok, adatbázisok<br>Abari Kálmán"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+    toc: true
+---
+
+
+
+### Letölthető, ingyenes könyvek adatbázis melléklettel
+
+
+* Yakir, Benjamin (2011). Introduction to Statistical Thinking (With R, Without Calculus)  
+[A könyv](http://pluto.huji.ac.il/~msby/StatThink/) | [Letölthető adatfájlok](http://pluto.huji.ac.il/~msby/StatThink/) 
+* Crawley, Michael J. (2012). The R Book.  
+[A könyv](https://www.cs.upc.edu/~robert/teaching/estadistica/TheRBook.pdf) | [Letölthető adatfájlok](http://www.bio.ic.ac.uk/research/mjcraw/therbook/)  
+* Navarro, Danielle (2020). Learning Statistics with R.  
+[A könyv](https://learningstatisticswithr.com/) | [Letölthető adatfájlok](https://learningstatisticswithr.com/)
+* Navarro, D., & Foxcroft, D. (2019). Learning statistics with jamovi: a tutorial for psychology students and other beginners (Version 0.70).  
+[A könyv](https://www.learnstatswithjamovi.com/) | [Letölthető adatfájlok](https://www.learnstatswithjamovi.com/)
+* Navarro, D. J., Foxcroft, D. R., & Faulkenberry, T. J. (2020). Learning Statistics with JASP: A Tutorial for Psychology Students and Other Beginners.  
+[A könyv](https://learnstatswithjasp.com/) | [Letölthető adatfájlok](https://learnstatswithjasp.com/)
+* Verzani, John (2002). simpleR Using R for Introductory Statistics.   
+[A könyv](https://www.math.csi.cuny.edu/Statistics/R/simpleR/) | [PDF letöltése](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
+* Kabacoff, R. (2015). R in Action: Data Analysis and Graphics with R. Manning.  
+[A könyv](https://www.manning.com/books/r-in-action-second-edition) | [R kódok](https://github.com/kabacoff/RiA2)
+* Long, J. D., Teetor, P., & Safari, an O. M. C. (2019). R Cookbook, 2nd Edition. O’Reilly Media, Incorporated.  
+[A könyv](https://rc2e.com/) | [Letölthető adatfájlok és R kódok](https://github.com/CerebralMastication/R-Cookbook)
+*  Online Statistics Education: A Multimedia Course of Study.  
+[A könyv](http://onlinestatbook.com/)
+* Neth, H. (2020). Data Science for Psychologists.  
+[A könyv](https://bookdown.org/hneth/ds4psy/)
+* Data Analysis for Psychology in R (dapR1) - Labs.  
+[A könyv](https://bookdown.org/animestina/dapr1_labs/)
+* Introductory Resources: Statistics and R  
+[A könyv](https://bookdown.org/animestina/intro_stats_rms/)
+* Pongpipat, E. E., Miranda, G. G., & Kmiecik, M. J. (2020). A Practical Extension of Introductory Statistics in Psychology using R.  
+[A könyv](https://rpsystats.com/)
+* Estrellado, R. A., Freer, E. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). Data science in education using R. London, England: Routledge. Nb. All authors contributed equally.   
+[A könyv](https://datascienceineducation.com/)
+* Matthew Beckman, Stéphane Guerrier, Justin Lee, Roberto Molinari, Samuel Orso & Iegor Rudnytskyi (2020). An Introduction to Statistical Programming Methods with R.   
+[A könyv](https://smac-group.github.io/ds/)
+* Nicholas Tierney (2020). RMarkdown for Scientists.  
+[A könyv](https://rmd4sci.njtierney.com/)
+* Jenny Bryan (2020). Happy Git and GitHub for the useR.   
+[A könyv](https://happygitwithr.com/)
+* atthew J. C. Crump (2018). Answering questions with data   
+[A könyv](https://crumplab.github.io/statistics/)
+* Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga (2018). Answering questions with data: Lab Manual.   
+[A könyv](https://crumplab.github.io/statisticsLab/index.html)
+* Murphy, TJ (2020). JABSTB: Statistical Design and Analysis of Experiments with R.   
+[A könyv](https://tjmurphy.github.io/jabstb/)
+* D. Hajtman Edit és Hajtman Béla (2013). Gyakorló példák a pszichológus hallgatók statisztikai tantárgyainak anyagához.   
+[A könyv](https://btk.ppke.hu/uploads/articles/4090/file/d_hajtman_edit-hajtman_bela-gyakorlo_peldak.pdf)
+
+
+### Nem ingyenes könyvek adatbázis melléklettel
+
+Ebben a listában a könyvek nem ingyenesek (nem letölthetők), de a könyvhöz kapcsolódó adatbázisok (és/vagy R kódok) igen. A letöltött adatállományokból, és az esetlegesen elérhető könyvrészletekből próbáljuk a feladat körülményeit összerakni (végső esetben improvizálhatunk).
+
+* Reiczigel J., Harnos A., Solymosi N. (2010). Biostatisztika nem statisztikusoknak.  
+[A könyv honlapja](http://biostatkonyv.hu/?page_id=86) | [Letölthető adatfájlok és R kódok](http://biostatkonyv.hu/?page_id=86)
+* Sajtos, L., & Mitev, A. (2007). SPSS Kutatási és adatelemzési kézikönyv. Alinea Kiadó.  
+[A könyv honlapja](https://www.alinea.hu/spss_kutatasi_es_adatelemzesi_kezikonyv) | [Letölthető adatfájlok](https://www.alinea.hu/spss_kutatasi_es_adatelemzesi_kezikonyv)
+* Ketskeméty, L., Izsó, L., & Könyves Tóth, E. (2011). Bevezetés az IBM SPSS Statistics programrendszerbe. Artéria Studió.  
+[A könyv honlapja](http://www.ketskemety.hu/SPSSkonyv2011) | [Letölthető adatfájlok](http://www.ketskemety.hu/SPSSkonyv2011)
+* Salkind, N. J., & Shaw, L. A. (2019). Statistics for People Who (Think They) Hate Statistics Using R. SAGE Publications.  
+[A könyv honlapja](https://edge.sagepub.com/salkindshaw) | [Letölthető adatfájlok és R kódok](https://edge.sagepub.com/salkindshaw/student-resources-0/r-code-and-data-sets)
+* Field, A., Miles, J., & Field, Z. (2012). Discovering Statistics Using R. SAGE Publications.  
+[A könyv honlapja](https://studysites.uk.sagepub.com/dsur/main.htm) | [Letölthető adatfájlok és R kódok](https://studysites.uk.sagepub.com/dsur/study/default.htm)
+* Harris, J. K. (2020). Statistics With R: Solving Problems Using Real-World Data. SAGE Publications.  
+[A könyv honlapja](https://edge.sagepub.com/harris1e) | [Letölthető adatfájlok és R kódok](https://edge.sagepub.com/harris1e/student-resources/datasets-and-r-code)
+* Murray Logan (2010). Biostatistical Design and Analysis Using R: a practical guide.  
+[A könyv honlapja](http://users.monash.edu.au/~murray/BDAR/) | [Letölthető adatfájlok és R kódok](http://users.monash.edu.au/~murray/BDAR/)
+* Salkind, N. J. (2016). Statistics for People Who (Think They) Hate Statistics: Using Microsoft Excel 2016.  
+[A könyv honlapja](https://edge.sagepub.com/salkindexcel4e) | [Letölthető adatfájlok](https://edge.sagepub.com/node/32406/student-resources/data-sets)
+* Salkind, N. J., & Frey, B. B. (2019). Statistics for People Who (Think They) Hate Statistics. SAGE Publications.  
+[A könyv honlapja](https://edge.sagepub.com/salkindfrey7e) | [Letölthető adatfájlok](https://edge.sagepub.com/salkindfrey7e/student-resources/datasets)
+* Salkind, N. J., Frey, B. B., & Winter, R. J. (2019). Study Guide for Psychology to Accompany Salkind and Frey’s Statistics for People Who (Think They) Hate Statistics. SAGE Publications.  
+[A könyv honlapja](https://us.sagepub.com/en-us/nam/study-guide-for-psychology-to-accompany-salkind-and-freys-statistics-for-people-who-think-they-hate) | [Letölthető adatfájlok](https://edge.sagepub.com/salkindfrey7e/student-resources/resources-for-the-study-guide-for-psychology)
+* Field, A. (2017). Discovering Statistics Using IBM SPSS Statistics. SAGE Publications.  
+[A könyv honlapja](https://edge.sagepub.com/field5e) | [Letölthető adatfájlok](https://edge.sagepub.com/field5e/student-resources/datasets)
+* Brace, N., Snelgar, R., & Kemp, R. (2016). SPSS for Psychologists: And Everybody Else. Red Globe Press.  
+[A könyv honlapja](https://www.macmillanihe.com/companion/Brace-Spss-For-Psychologists-6e/) | [Letölthető adatfájlok](https://www.macmillanihe.com/companion/Brace-Spss-For-Psychologists-6e/resources/)
+* Cleophas, T. J., & Zwinderman, A. H. (2016). SPSS for starters and 2nd levelers. Springer International Publishing.  
+[A könyv honlapja](https://link.springer.com/book/10.1007/978-3-319-20600-4) | [Letölthető adatfájlok](http://extras.springer.com/2016/978-3-319-20599-1)
+* Argyrous, G. (2011). Statistics for Research: With a Guide to SPSS. SAGE Publications.  
+[A könyv honlapja](https://studysites.sagepub.com/argyrous3/home.htm) | [Letölthető adatfájlok](https://studysites.sagepub.com/argyrous3/datasets.htm)
+* Urdan, T. C. (2016). Statistics in Plain English. Taylor & Francis.  
+[A könyv honlapja](https://routledgetextbooks.com/textbooks/9781138838345/default.php) | [Letölthető adatfájlok](https://routledgetextbooks.com/textbooks/9781138838345/student.php)
+* Rasch, D., Kubinger, K., & Yanagida, T. (2011). Statistics in Psychology Using R and SPSS. Wiley.  
+[A könyv honlapja](https://www.wiley.com/en-us/Statistics+in+Psychology+Using+R+and+SPSS-p-9780470971246) | [Letölthető adatfájlok](https://www.wiley.com/en-us/Statistics+in+Psychology+Using+R+and+SPSS-p-9780470971246)
+* Robert A. Muenchen (2011). R for SAS and SPSS Users. Springer-Verlag: New York.  
+[A könyv honlapja](https://www.springer.com/gp/book/9781461406846) | [Letölthető adatfájlok](http://r4stats.com/downloads/)
+* Cohen, B. H. (2013). Explaining Psychological Statistics. Wiley.  
+[A könyv honlapja](http://bcs.wiley.com/he-bcs/Books?action=index&itemId=1118436601&bcsId=8544) | [Letölthető adatfájlok (2000-es kiadáshoz)](http://www.wiley.com/college/psyc/cohen345822/student.html)
+* Triola, M. F. (2017). Elementary Statistics. Pearson Education.  
+[A könyv honlapja](https://www.pearson.com/us/higher-education/product/Triola-Elementary-Statistics-13th-Edition/9780134462455.html) | [Letölthető adatfájlok](http://wps.pearsoned.com/aw_triola_stats_series/)
+* Levine, D. M., & Stephan, D. F. (2014). Even You Can Learn Statistics and Analytics: An Easy to Understand Guide to Statistics and Analytics. Pearson Education.  
+[A könyv honlapja](https://www.informit.com/store/even-you-can-learn-statistics-and-analytics-an-easy-9780133382662) | [Letölthető adatfájlok](https://www.informit.com/store/even-you-can-learn-statistics-and-analytics-an-easy-9780133382662)
+* Ott, R. L., & Longnecker, M. (2015). An Introduction to Statistical Methods and Data Analysis (7th ed.). Cengage Learning.  
+[A könyv honlapja](https://www.cengage.co.uk/books/9781305269477/) | [Letölthető adatfájlok, regisztráció után](https://www.cengagebrain.co.uk/shop/isbn/9781305269477)
+* Bluman, A. G. (2017). Elementary Statistics: A Step by Step Approach. McGraw-Hill.  
+[A könyv honlapja](http://www.mhhe.com/bluman/) | [Letölthető adatfájlok](http://highered.mheducation.com/sites/0073534986/student_view0/data_files.html)
+* McQueen, R., & Knussen, C. (2013). Introduction to Research Methods and Statistics in Psychology: A practical guide for the undergraduate researcher. Pearson Education Limited.  
+[A könyv honlapja](http://catalogue.pearsoned.co.uk/catalog/academic/product?ISBN=9780273735069) | [Letölthető adatfájlok](http://wps.pearsoned.co.uk/ema_uk_he_mcqueen_resmeth_2/)
+* Howell, D. C. (2013). Statistical Methods for Psychology. Thomson Wadsworth.  
+[A könyv honlapja](https://www.cengagebrain.co.uk/shop/ProductDisplay?storeId=10654&productId=584251) | [Letölthető adatfájlok](https://www.uvm.edu/~statdhtx/methods8/DataFiles/DataSets.html)
+* Beckerman, A. P., & Petchey, O. L. (2012). Getting Started with R: An introduction for biologists. OUP Oxford.  
+[A könyv honlapja](http://r4all.org/books/gswr2/) | [Letölthető adatfájlok](http://r4all.org/books/datasets/)
+* Zumel, N., & Mount, J. (2019). Practical Data Science with R. Manning Publications.  
+[A könyv honlapja](https://github.com/WinVector/PDSwR2) | [Letölthető adatfájlok](https://github.com/WinVector/PDSwR2) | [R kódok](https://github.com/WinVector/PDSwR2/raw/master/CodeExamples.zip)
+* Adler, J. (2012). R in a Nutshell. O’Reilly Media, Incorporated.  
+[A könyv honlapja](http://shop.oreilly.com/product/9780596801717.do) | [Letölthető adatfájlok és R kódok](http://examples.oreilly.com/9780596801717/)
+* Tattar, P. N., Ramaiah, S., & Manjunath, B. G. (2016). A Course in Statistics with R. Wiley.  
+[A könyv honlapja](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=10279&itemId=1119152720) | [Letölthető adatfájlok és R kódok](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=10279&itemId=1119152720&resourceId=40927)
+* Haslam, S. A., & McGarty, C. (2018). Research Methods and Statistics in Psychology. SAGE Publications. [A könyv honlapja](https://uk.sagepub.com/en-gb/eur/research-methods-and-statistics-in-psychology/book256471) | [Letölthető adatfájlok](https://study.sagepub.com/haslamandmcgarty3e/student-resources/spss-and-r-datafiles)
+
+
+
+### R tutoriálok
+
+
+* R Tutorial Series - 100+ Free Tutorials - https://data-flair.training/blogs/r-tutorials-home/
+* Quick-R - https://www.statmethods.net/
+* Cookbook for R - http://www.cookbook-r.com/
+* R Tutorial - http://www.r-tutor.com/
+* R Tutorial - https://www.cyclismo.org/tutorial/R/
+* R Tutorial - https://www.tutorialspoint.com/r/index.htm
+* R Tutorial for Beginners: Learn R Programming Language - https://www.guru99.com/r-tutorial.html
+* R Tutorial - https://www.w3schools.in/r/
+* Notes on the use of R for psychology experiments and questionnaires - https://www.sas.upenn.edu/~baron/from_cattell/rpsych/rpsych.html
+* Stackoverflow/r/info - https://stackoverflow.com/tags/r/info
+* Getting Started with R - https://mran.microsoft.com/documents/getting-started
+* STHDA Statistical tools for high-throughput data analysis - http://www.sthda.com/english/
+* Datanovia - https://www.datanovia.com/en/
+* Tidymodels - https://www.tidymodels.org/
+* PsyTeachR - https://psyteachr.github.io/index.html
+* r-statistics.co - http://r-statistics.co/
+* Summary and Analysis of Extension Program Evaluation in R - https://rcompanion.org/handbook/
+
+
+
+
+### R blogok
+
+* R-bloggers - https://www.r-bloggers.com/
+* Revolutions - https://blog.revolutionanalytics.com/
+* Statistical Modeling, Causal Inference, and Social Science - https://statmodeling.stat.columbia.edu/
+* Twitter #rstat - https://twitter.com/hashtag/rstat
+* R <- psychologist - https://rpsychologist.com/
+* Top 40 R Programming Blogs and Websites To Follow in 2020 - https://blog.feedspot.com/r_programming_blogs/
+
+
+### Adatbázisok
+
+
+* R datasets - https://vincentarelbundock.github.io/Rdatasets/datasets.html
+* Kaggle datasets - https://www.kaggle.com/datasets
+* FiveThirtyEight - https://data.fivethirtyeight.com/
+* Tidy Tuesday - https://github.com/rfordatascience/tidytuesday
+* datasauRus - https://github.com/lockedata/datasauRus
+* Recent R Data Packages (2017) - https://rviews.rstudio.com/2017/11/01/r-data-packages/
+* Quandl - https://www.quandl.com/tools/r
+* Bikedata - https://github.com/ropensci/bikedata
+* 50+ free Datasets for Data Science Projects (2020) - https://blog.journeyofanalytics.com/50-free-datasets-for-data-science-projects/
+* Lego - https://github.com/seankross/lego
+* Engsoccerdata - https://github.com/jalapic/engsoccerdata
+* Screen time of the Game of Thrones' Characters - https://github.com/Preetish/GoT_screen_time
+* ggplot2movies: Movies Data - https://cran.r-project.org/web/packages/ggplot2movies/index.html
+* babynames: US Baby Names 1880-2017 - https://cran.r-project.org/web/packages/babynames/index.html
+* Starwars characters - https://dplyr.tidyverse.org/reference/starwars.html
+* Data acquisition in R - https://ikashnitsky.github.io/2017/data-acquisition-two/
+* Some Data Packages - https://kieranhealy.org/blog/archives/2020/08/25/some-data-packages/
+* IT 223 -- SPSS Datasets - https://condor.depaul.edu/sjost/it223/datasets.htm
+* Data.world - https://data.world/datasets/psychology
+* SPSS TUTORIALS: HOME - https://libguides.library.kent.edu/SPSS/home
+* Research Methods and Statistics - https://webstat.une.edu.au/unit_materials/index.htm
+* Reddit: r/datasets - https://www.reddit.com/r/datasets/
+* 18 Places to Find Free Data Sets for Data Science Projects - https://www.dataquest.io/blog/free-datasets-for-projects/
+* Data sets in PsychArchives - https://www.psychdata.de/index.php?main=search&sub=psycharchives&lang=eng
+
+
+
+
+
+
+
+
+
